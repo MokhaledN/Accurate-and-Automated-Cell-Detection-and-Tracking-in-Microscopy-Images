@@ -19,7 +19,7 @@ This repository contains demo videos that illustrate the performance improvement
 
 This video demonstrates the detection performance of the original YOLOv8x model.
 
-[Watch Video](Videos/Original_YOLOv8x_Model_Prediction.mp4)
+[Watch Video](Video/Original_YOLOv8x_Model_Prediction.mp4)
 
 ### Fine-Tuned YOLOv8x Model
 
