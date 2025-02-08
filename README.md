@@ -25,10 +25,10 @@ This video demonstrates the detection performance of the original YOLOv8x model.
 
 This video showcases the improvements achieved by fine-tuning the YOLOv8x model for enhanced cell detection.
 
-[Watch Video](Video/Fint-tuned YOLOv8x Model Prediction.mp4)
+[Watch Video](Video/Finttuned_YOLOv8x_Model_Prediction.mp4)
 
 ### Integrated Pipeline with DeepSORT
 
 This video presents the integrated pipeline that combines the fine-tuned YOLOv8x with the DeepSORT tracking algorithm, highlighting significant improvements in detection and tracking performance.
 
-[Watch Video](Video/DeepSORT Enhnaced Detection.mp4)
+[Watch Video](Video/DeepSORT_Enhnaced_Detection.mp4)
